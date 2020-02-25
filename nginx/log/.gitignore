@@ -1,0 +1,5 @@
+# 내용이 없는 디렉토리를 추가하기 위해서 해당 파일 추가
+# 모든 파일 ignore
+*
+# .gitignore 는 추가
+!.gitignore
